@@ -2,12 +2,12 @@
 
 A mobile application designed to showcase the restaurant’s menu and provide a smooth user experience for browsing dishes and adding them to the cart. The app focuses on a beautiful and user-friendly interface, without integrating an API or backend system.
 
-Data : 10 / 01 / 2023
+📅 Data : 10 / 01 / 2023
 
-Youtube: https://youtu.be/hDHGrdTjL6A
+▶️ Youtube: https://youtu.be/N3N_oC6FAlo
 
 
-🔹 App Features:
+## App Features:
 
 ✅ Display the full menu with images and prices
 
@@ -20,7 +20,7 @@ Youtube: https://youtu.be/hDHGrdTjL6A
 ✅ Fast and smooth browsing experience
 
 
-🔧 Technologies Used:
+## 🔧 Technologies Used:
 
 Frontend-only development without API integration
 
